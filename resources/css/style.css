@@ -211,7 +211,7 @@ header {
 }
 
 .logo {
-    height: 400px;
+    height: 300px;
     width: auto;
     float: left;
     margin-top: 20px;
@@ -432,8 +432,8 @@ header {
 /* ----------------------------------------------- */
 
 .section-testimonials {
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-custom.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-custom.jpg);
     background-size: cover;
     color: #fff;
     background-attachment: fixed;
